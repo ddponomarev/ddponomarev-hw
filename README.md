@@ -79,10 +79,13 @@
 
 ### Задание 3
 
-`
-```
 
 
 ![раздела Latest Data Win agent > Latest data](https://github.com/ddponomarev/ddponomarev-hw/blob/main/img/win_ag.png)
+
+
+
+
+
 
 ---
